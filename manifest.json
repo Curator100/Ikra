@@ -1,0 +1,40 @@
+{
+  "name": "HSC Hero - পড়ার সাথী",
+  "short_name": "HSC Hero",
+  "description": "তোমার HSC প্রস্তুতির সেরা সাথী",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0F1A",
+  "theme_color": "#FF4757",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["education", "productivity"],
+  "shortcuts": [
+    {
+      "name": "হোম",
+      "url": "/?page=home",
+      "description": "হোম পেজে যাও"
+    },
+    {
+      "name": "পড়া শুরু করো",
+      "url": "/?page=study",
+      "description": "পড়া পেজে যাও"
+    }
+  ]
+}
